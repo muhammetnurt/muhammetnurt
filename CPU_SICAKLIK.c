@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <unistd.h>
-//int usleep(useconds_t usec);
+
 char CPUtempfile[] = {"/sys/class/thermal/thermal_zone0/temp"};
 
 
